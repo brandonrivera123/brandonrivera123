@@ -9,8 +9,6 @@ I'm a Front-End React developer with 4 years of development experience.
 - 🥅 2022 Goals: Collaborate on open source projects and be more active in development community.
 - ⚡️ Fun Facts: I play violin 🎻, piano 🎹, and like developing games 🎮 with the Unity Game Engine.
 
-<br/>
-
 ### Connect with me:
 
 [<img align="left" width="30px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
