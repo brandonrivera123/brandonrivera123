@@ -2,7 +2,7 @@
 
 ## I'm a young, ambitious, and hard working developer.
 
-- ✏️ I am currently working on developing this portfolio to help showcase what I have learned about web development.
+- ✏️ I am currently working on a portfolio website to help showcase what I have learned about web development.
 - 👨🏼‍💻 I am learning anything and everything I can.
 - 🥅 2022 Goals: Collaborate on open source projects and be more active in development community.
 - ⚡️ Fun Fact: I also like working with the Unity Game Engine outside of web development.
