@@ -13,7 +13,6 @@
 [<img align="left" width="30px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][instagram]
 
 <br/>
-<br/>
 
 ### Languages and Tools:  
 
