@@ -15,7 +15,6 @@ I'm a Front-End React developer with 4 years of development experience.
 [<img align="left" width="30px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][instagram]
 
 <br/>
-<br/>
 
 ### Languages and Tools:  
 
