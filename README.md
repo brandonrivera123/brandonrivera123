@@ -1,5 +1,7 @@
 ### Hi there, I am Brandon Rivera 👋🏻
 
+## Aboute Me:
+
 I'm a Front-End React developer with 4 years of development experience.
 
 - ✏️ I am currently working on a portfolio website to help showcase what I have learned about web development.
