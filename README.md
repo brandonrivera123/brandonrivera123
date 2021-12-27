@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][instagram]
+[<img align="left" width="40px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="40px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][instagram]
 
 <br/>
 
