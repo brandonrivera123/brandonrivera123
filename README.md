@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I'm a Front-End React developer with 4 years of development experience.
+I'm a Front-End React developer with 7 years of development experience.
 
 - ✏️ I am currently working on a portfolio website to help showcase what I have learned about web development.
 - 👨🏼‍💻 I am learning anything and everything I can.
